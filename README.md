@@ -178,6 +178,27 @@ Strict mode enabled with:
 No `any` types used throughout the codebase.
 
 ## 📸 Preview
+1
+Default Currunt month in sample units
+<img width="1920" height="1020" alt="Screenshot 2025-11-12 190435" src="https://github.com/user-attachments/assets/12ca1f21-1e81-4ee2-8b11-27623829c412" />
+
+2 add event, delete event ,update event
+<img width="1920" height="1020" alt="Screenshot 2025-11-12 191534" src="https://github.com/user-attachments/assets/9c3d2db1-763f-4266-aa60-d3dea62d321c" />
+
+3 calendar with no event
+<img width="1920" height="1020" alt="Screenshot 2025-11-12 191601" src="https://github.com/user-attachments/assets/7c5829e8-1609-42cf-ba55-6c182b6c3851" />
+
+4 week view with time slot
+<img width="1920" height="1020" alt="Screenshot 2025-11-12 191615" src="https://github.com/user-attachments/assets/38791de3-d13a-4e56-9667-12851e9e2be2" />
+
+5 with many event
+
+<img width="1920" height="1020" alt="Screenshot 2025-11-12 191717" src="https://github.com/user-attachments/assets/49921eef-e775-4981-98b5-8bd5b4e9302b" />
+
+6
+keyword nagivation demo
+
+<img width="1920" height="1020" alt="Screenshot 2025-11-12 191913" src="https://github.com/user-attachments/assets/9bfdba3d-4d26-4399-807b-1f6b47e32ae4" />
 
 ## 📝 Notes
 
@@ -205,6 +226,6 @@ npm run build-storybook
 This project was created as a hiring assignment for the Design System Component Library.
 
 ## 👤 Contact
+surajsharma030805@gmail.com
+surajpsharma
 
-[surajsharma030805@gmail.com]
-[surajpsharma]
