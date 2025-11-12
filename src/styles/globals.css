@@ -1,0 +1,4 @@
+/* Place global styles used by Storybook and app */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
