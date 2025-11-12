@@ -227,5 +227,11 @@ This project was created as a hiring assignment for the Design System Component 
 
 ## 👤 Contact
 surajsharma030805@gmail.com
-surajpsharma
+ github-surajpsharma
+
+## 🚀 Live Storybook
+[https://calendar-view-surajsharma.vercel.app](https://calendar-view-surajsharma.vercel.app)
+
+## 🧩 GitHub Repository
+[https://github.com/surajpsharma/calendar-view-surajsharma](https://github.com/surajpsharma/calendar-view-surajsharma)
 
